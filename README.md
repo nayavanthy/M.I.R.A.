@@ -28,6 +28,8 @@ M.I.R.A. operates with a **PyQt frontend** and a **FastAPI backend** to handle r
 - **Spotify music control** (yes, it knows your vibe)
 - **App launching** for anything installed on your machine
 
+![alt text](<Screenshot 2025-02-23 232041.png>)
+
 ## What's Next?
 This is just the beginning. The next iteration will focus on:
 - **Speech-to-Text Integration** - So you can talk to M.I.R.A. hands-free
